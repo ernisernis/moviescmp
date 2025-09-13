@@ -1,4 +1,4 @@
-package org.ernisernis.moviescmp.theme
+package org.ernisernis.moviescmp.app
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

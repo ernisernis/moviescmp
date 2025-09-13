@@ -1,4 +1,4 @@
-package org.ernisernis.moviescmp
+package org.ernisernis.moviescmp.app
 
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.Image
@@ -13,8 +13,6 @@ import androidx.compose.ui.platform.LocalUriHandler
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.unit.dp
 import moviescmp.composeapp.generated.resources.*
-import org.ernisernis.moviescmp.theme.AppTheme
-import org.ernisernis.moviescmp.theme.LocalThemeIsDark
 import kotlinx.coroutines.isActive
 import org.jetbrains.compose.resources.Font
 import org.jetbrains.compose.resources.stringResource

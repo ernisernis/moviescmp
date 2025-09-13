@@ -1,4 +1,4 @@
-package org.ernisernis.moviescmp
+package org.ernisernis.moviescmp.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

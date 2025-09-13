@@ -1,4 +1,4 @@
-package org.ernisernis.moviescmp.theme
+package org.ernisernis.moviescmp.app
 
 import android.app.Activity
 import androidx.compose.runtime.Composable

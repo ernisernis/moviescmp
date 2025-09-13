@@ -3,7 +3,7 @@ import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
 import androidx.compose.ui.window.rememberWindowState
 import java.awt.Dimension
-import org.ernisernis.moviescmp.App
+import org.ernisernis.moviescmp.app.App
 
 fun main() = application {
     Window(

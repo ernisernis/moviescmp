@@ -1,5 +1,5 @@
 import androidx.compose.ui.window.ComposeUIViewController
-import org.ernisernis.moviescmp.App
+import org.ernisernis.moviescmp.app.App
 import platform.UIKit.UIViewController
 
 fun MainViewController(): UIViewController = ComposeUIViewController { App() }
